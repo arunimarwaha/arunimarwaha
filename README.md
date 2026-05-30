@@ -1,6 +1,6 @@
 # Hi, I'm Arunima 👋
 
-**Data & Business Analyst | Economist 
+**Data & Business Analyst | Economist**
 
 Curious and analytically driven professional with 3+ years of turning complex economic and operational data into decision-ready insights. Skilled in Python, R, SQL, and STATA, with experience processing datasets of 3M+ observations, automating reporting workflows by 90%+, and building dashboards, KPI frameworks, and analytical outputs for stakeholder decision-making.
 
@@ -9,9 +9,13 @@ Curious and analytically driven professional with 3+ years of turning complex ec
 ## What I Work On
 
 📊 Data Analysis & Visualization
+
 🤖 Machine Learning & Predictive Modeling
+
 📈 Econometrics & Causal Inference
+
 🔎 Survey Data & Large-Scale Data Processing
+
 ⚡ Reproducible Research & Automated Workflows
 
 ---
