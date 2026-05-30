@@ -68,11 +68,3 @@ Humboldt-Universität zu Berlin
 
 **B.A. (Hons.) Economics**
 University of Delhi
-
----
-
-## Connect
-
-💼 LinkedIn: linkedin.com/in/arunimarwaha
-🌐 Portfolio: arunimarwaha.github.io/portfolio
-📂 Projects: github.com/arunimarwaha
