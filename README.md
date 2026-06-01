@@ -1,8 +1,8 @@
-# Hi, I'm Arunima 👋
+Hi, I'm Arunima
 
 **Data & Business Analyst | Economist**
 
-Curious and analytically driven professional with 3+ years of turning complex economic and operational data into decision-ready insights. Skilled in Python, R, SQL, and STATA, with experience processing datasets of 3M+ observations, automating reporting workflows by 90%+, and building dashboards, KPI frameworks, and analytical outputs for stakeholder decision-making.
+I am Curious and analytically driven professional with 3+ years of turning complex economic and operational data into decision-ready insights. Skilled in Python, R, SQL, and STATA, with experience processing datasets of 3M+ observations, automating reporting workflows by 90%+, and building dashboards, KPI frameworks, and analytical outputs for stakeholder decision-making.
 
 ---
 
@@ -68,3 +68,5 @@ Humboldt-Universität zu Berlin
 
 **B.A. (Hons.) Economics**
 University of Delhi
+
+[LinkedIn](https://www.linkedin.com/in/arunimarwaha/) | [Email](arumarwaha@gmail.com)
