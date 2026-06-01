@@ -32,7 +32,7 @@ Curious and analytically driven professional with 3+ years of turning complex ec
 * Git
 * LaTeX
 
-### Data Science & Analytics
+### Python/R Libraries: 
 
 * pandas
 * NumPy
