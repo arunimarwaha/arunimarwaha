@@ -6,15 +6,15 @@ I am a curious and analytically driven professional with 3+ years of turning com
 
 ## What I Work On
 
-📊 Data Analysis & Visualization
+- Data Analysis & Visualization
 
-🤖 Machine Learning & Predictive Modeling
+- Machine Learning & Predictive Modeling
 
-📈 Econometrics & Causal Inference
+- Econometrics & Causal Inference
 
-🔎 Survey Data & Large-Scale Data Processing
+- Survey Data & Large-Scale Data Processing
 
-⚡ Reproducible Research & Automated Workflows
+- Reproducible Research & Automated Workflows
 
 ---
 
