@@ -7,14 +7,11 @@ I am a curious and analytically driven professional with 3+ years of turning com
 ## What I Work On
 
 - Data Analysis & Visualization
-
+- Business Intelligence & Reporting
 - Machine Learning & Predictive Modeling
-
 - Econometrics & Causal Inference
-
 - Survey Data & Large-Scale Data Processing
-
-- Reproducible Research & Automated Workflows
+- Reproducible Research & Workflow Automation
 
 ---
 
@@ -22,40 +19,19 @@ I am a curious and analytically driven professional with 3+ years of turning com
 
 ### Languages & Tools
 
-* R
-* Python
-* SQL
-* STATA
-* Excel
-* Git
-* LaTeX
+R • Python • SQL • STATA • Excel • Git • LaTeX
 
 ### Python/R Libraries: 
 
-* pandas
-* NumPy
-* scikit-learn
-* tidyverse
-* ggplot2
-* dplyr
+pandas • NumPy • scikit-learn • matplotlib • seaborn • tidyverse • ggplot2 • dplyr • tidyr • readr • lubridate • caret • randomForest • gbm
 
 ### BI & Reporting
 
-* Power BI
-* Tableau
-* Dashboard Development
-* Automated Reporting
+Power BI • Tableau • Dashboard Development • Automated Reporting • Stakeholder-Ready Visualisations
 
-### Methods
+### Analytics & Methods
 
-* Regression Analysis
-* Panel Data Methods
-* Causal Inference
-* Synthetic Control Methods
-* Classification Models
-* Feature Engineering
-* Exploratory Data Analysis
-* Machine Learning
+Data Cleaning & Transformation • Exploratory Data Analysis • Statistical Modeling • Predictive Analytics • Machine Learning • Classification Models • Model Evaluation • Causal Inference • Policy Evaluation • KPI Development • Performance Monitoring
 
 ---
 
